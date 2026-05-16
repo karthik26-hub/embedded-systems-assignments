@@ -1,4 +1,4 @@
-# Embedded Systems Assignments
+# rpi5-kernel-lab
 
 Working through a structured embedded systems curriculum on real hardware.
 No simulators. Everything here ran on actual silicon and either worked or didn't.
